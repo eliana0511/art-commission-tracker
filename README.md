@@ -22,7 +22,7 @@ A simple Python program that manages art commissions using **Stacks (LIFO)** and
 python3 art_commission_tracker.py
 
 Author
-Ally Bazan
+Ally 
 
 
 Then add + push it too:
