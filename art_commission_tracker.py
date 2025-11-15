@@ -67,7 +67,7 @@ def main():
         elif choice == "4":
             view_commissions(queue, stack)
         elif choice == "5":
-            print("\n👋 Goodbye, Ally! Keep creating beautiful art 💕")
+            print("\n👋 Goodbye! Keep creating beautiful art 💕")
             break
         else:
             print("Invalid choice! Try again.")
